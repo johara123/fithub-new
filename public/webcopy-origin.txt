@@ -1,0 +1,832 @@
+Uri: https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\user\Downloads\shivaaythemes.in\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPCbd1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPCbd1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPErd1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPErd1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjc1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjc1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPJ_a1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPJ_a1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPKba1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPKba1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPNHa1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPNHa1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPja1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPja1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/catamaran/v18/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPjd1ak.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\catamaran\v18\o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPPjd1ak.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://shivaaythemes.in/fithub-demo/
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\index.htm
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/about-us.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\about-us.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/animate.min.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/bootstrap.min.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/font-awesome.min.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/jarallax.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\jarallax.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/magnific-popup.min.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/slick-theme.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/slick.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/css/style.css
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\css\style.css
+Content Type: text/css
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont-1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont-1.woff
+Content Type: application/font-woff
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/about-circle-one.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\about-circle-one.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/about-circle-two.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\about-circle-two.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/about-client.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\about-client.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/about-img-one.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\about-img-one.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/about-img-two.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\about-img-two.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/about-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\about-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/about-trainer.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\about-trainer.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/ajax-loader.gif
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/apple.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\apple.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/appointment-overlay-bg.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\appointment-overlay-bg.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/banner-circle-one.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\banner-circle-one.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/banner-circle-two.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\banner-circle-two.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/banner-img-1.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\banner-img-1.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/banner-img-2.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\banner-img-2.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/banner-img-circle-bg.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\banner-img-circle-bg.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/banner-overlay.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\banner-overlay.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-big1.1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-big1.1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-big1.2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-big1.2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-big1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-big1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-big2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-big2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-big3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-big3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-detail-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-detail-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-grid-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-grid-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog-list-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog-list-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog10.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog10.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog11.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog11.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog12.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog12.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog4.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog5.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog6.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog6.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog7.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog7.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog8.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog8.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blog9.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blog9.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/blur-1.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\blur-1.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/calories.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\calories.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/check.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\check.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-detail-img1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-detail-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-detail-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-detail-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-detail-trainer-box-img.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-detail-trainer-box-img.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-icon1.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-icon1.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-icon2.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-icon2.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-icon3.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-icon3.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-icon4.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-icon4.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-icon5.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-icon5.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-icon6.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-icon6.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-img1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-img2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-img3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-img4.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-img5.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-img6.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/class-trainer.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\class-trainer.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/classes-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\classes-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/classes-overlay-bg.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\classes-overlay-bg.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/client1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\client1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/client2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\client2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/client3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\client3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/client4.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\client4.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/clock-1.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\clock-1.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/clock-2.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\clock-2.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/comment-client1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\comment-client1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/comment-client2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\comment-client2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/contact-us-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\contact-us-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/cup-of-coffee.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\cup-of-coffee.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/download-app-overlay-bg.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\download-app-overlay-bg.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/email.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\email.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/error-404-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\error-404-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/error-404.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\error-404.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/favicon.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/feature-1.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\feature-1.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/feature-2.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\feature-2.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/feature-3.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\feature-3.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/feature-4.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\feature-4.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/fitness.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\fitness.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/footer-overlay.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\footer-overlay.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/google-play.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\google-play.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/gym-equipment.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\gym-equipment.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/happy-client.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\happy-client.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/heart-rate-2.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\heart-rate-2.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/heart-rate.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\heart-rate.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/join-class1.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\join-class1.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/join-class2.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\join-class2.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/join-class3.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\join-class3.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/location.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\location.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/logo.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/logo_stickey.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\logo_stickey.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/mobile-circle1.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\mobile-circle1.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/mobile-circle2.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\mobile-circle2.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/mobile.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\mobile.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/pdf.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\pdf.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/phone.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\phone.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/placeholder-pdf.pdf
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\placeholder-pdf.pdf
+Content Type: application/pdf
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-detail-img-cfw1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-detail-img-cfw1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-detail-img-cfw2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-detail-img-cfw2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-detail-img-cfw3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-detail-img-cfw3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-detail-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-detail-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img4.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img5.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img6.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img7.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img8.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-img9.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-img9.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/portfolio-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\portfolio-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/pricing-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\pricing-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/quote.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\quote.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/recent-post1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\recent-post1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/recent-post2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\recent-post2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/recent-post3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\recent-post3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/recent-post4.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\recent-post4.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/right-arrow.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\right-arrow.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/schedule-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\schedule-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/team-detail-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\team-detail-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/team-in-banner.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\team-in-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/team-overlay-bg.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\team-overlay-bg.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/total-clients.png
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\total-clients.png
+Content Type: image/png
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer1.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer1.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer2-detail.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer2-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer2.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer2.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer3.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer3.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer4.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer4.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer5.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer5.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer6.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer6.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer7.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer7.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/trainer8.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\trainer8.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/images/video-img.jpg
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\images\video-img.jpg
+Content Type: image/jpeg
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/back-to-top.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\back-to-top.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/bg-moving.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\bg-moving.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/bootstrap.min.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/custom-magnific-popup.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\custom-magnific-popup.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/custom-portfolio-filter.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\custom-portfolio-filter.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/custom-progress-bar.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\custom-progress-bar.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/custom-scroll-count.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\custom-scroll-count.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/custom.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/jarallax.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\jarallax.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/jarallax.min.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/jquery.min.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/jquery.mixitup.min.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\jquery.mixitup.min.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/magnific-popup.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\magnific-popup.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/popper.min.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/slick.min.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/assets/js/wow.min.js
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\assets\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://shivaaythemes.in/fithub-demo/blog-detail.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\blog-detail.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/blog-grid.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\blog-grid.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/blog-list.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\blog-list.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/class-detail.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\class-detail.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/classes.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\classes.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/contact-us.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\contact-us.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/error-404.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\error-404.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/faq.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\faq.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/index-02.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\index-02.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/index.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\index.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/portfolio-detail.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\portfolio-detail.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/portfolio.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\portfolio.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/pricing.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\pricing.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/schedule.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\schedule.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/team-detail.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\team-detail.html
+Content Type: text/html
+
+Uri: https://shivaaythemes.in/fithub-demo/team.html
+File Name: C:\Users\user\Downloads\shivaaythemes.in\fithub-demo\team.html
+Content Type: text/html
+
